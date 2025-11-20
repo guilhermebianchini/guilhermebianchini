@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme de Andrade Bianchini, tenho 23 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas de Informação no Centro Universitário de Volta Redonda - UniFOA.
+Me chamo Guilherme de Andrade Bianchini, tenho 23 anos e sou natural de Minas Gerais, atualmente morando no estado do Rio de Janeiro. Atualmente, estou cursando Sistemas de Informação no Centro Universitário de Volta Redonda - UniFOA.
 
 ---
 
