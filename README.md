@@ -42,16 +42,16 @@ Me chamo Guilherme de Andrade Bianchini, tenho 23 anos e sou natural de Minas Ge
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="NodeJS"
+    title="NodeJS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Express" 
+    title="Express"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
